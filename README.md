@@ -1,2 +1,2 @@
 # MLAlgorithms
-Implementation of different ML algorithms
+Implementation of different ML algorithms using Numpy
